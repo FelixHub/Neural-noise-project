@@ -4,8 +4,9 @@ This is a part of the code of my master's project "Using the stimulus specifc in
 
 It was an interdisciplinary research project between computational neuroscience and information theory. 
 
-These 3 jupyter notebook corresponds to 3 different parts of my project :
+These 4 jupyter notebooks corresponds to 3 different parts of my project :
 - Single Neuron Study
+- 2-neurons System
 - Small Population Study
 - Retinal direction-selective cells data analysis
 
